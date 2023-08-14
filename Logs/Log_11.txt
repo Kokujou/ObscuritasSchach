@@ -1,0 +1,125 @@
+﻿Bauer weiß zieht von C7 auf C6
+Bauer schwarz zieht von E2 auf E3
+Bauer weiß zieht von E7 auf E6
+Dame schwarz zieht von D1 auf G4
+Bauer weiß zieht von F7 auf F5
+Dame schwarz zieht von G4 auf D4
+Bauer weiß zieht von D7 auf D5
+Dame schwarz zieht von D4 auf E5
+Springer weiß zieht von B8 auf A6
+Springer schwarz zieht von B1 auf C3
+Springer weiß zieht von G8 auf F6
+Läufer schwarz zieht von F1 auf D3
+Springer weiß zieht von A6 auf C7
+Bauer schwarz zieht von H2 auf H4
+Springer weiß zieht von F6 auf D7
+Dame schwarz zieht von E5 auf F4
+Springer weiß zieht von D7 auf B6
+Bauer schwarz zieht von H4 auf H5
+Läufer weiß zieht von F8 auf D6
+Dame schwarz zieht von F4 auf D4
+Bauer weiß zieht von C6 auf C5
+Dame schwarz auf D4 schlägt gegnerische Figur auf G7
+Turm weiß zieht von H8 auf F8
+Dame schwarz auf G7 schlägt gegnerische Figur auf H7
+Bauer weiß zieht von F5 auf F4
+Bauer schwarz auf E3 schlägt gegnerische Figur auf F4
+Bauer weiß zieht von E6 auf E5
+Bauer schwarz auf F4 schlägt gegnerische Figur auf E5
+Läufer weiß auf D6 schlägt gegnerische Figur auf E5
+Dame schwarz zieht von H7 auf G6
+Turm weiß zieht von F8 auf F7
+Springer schwarz zieht von G1 auf F3
+König weiß zieht von E8 auf E7
+Springer schwarz auf F3 schlägt gegnerische Figur auf E5
+Dame weiß zieht von D8 auf F8
+Springer schwarz auf E5 schlägt gegnerische Figur auf F7
+Dame weiß auf F8 schlägt gegnerische Figur auf F7
+Dame schwarz auf G6 schlägt gegnerische Figur auf F7
+König weiß auf E7 schlägt gegnerische Figur auf F7
+Läufer schwarz zieht von D3 auf G6
+König weiß zieht von F7 auf F6
+Turm schwarz zieht von H1 auf H4
+König weiß zieht von F6 auf G5
+Bauer schwarz zieht von G2 auf G3
+Springer weiß zieht von C7 auf E6
+Bauer schwarz zieht von D2 auf D3
+König weiß zieht von G5 auf F6
+Läufer schwarz zieht von C1 auf H6
+Springer weiß zieht von B6 auf D7
+Springer schwarz auf C3 schlägt gegnerische Figur auf D5
+König weiß zieht von F6 auf E5
+Springer schwarz zieht von D5 auf E7
+Springer weiß zieht von D7 auf F6
+Springer schwarz auf E7 schlägt gegnerische Figur auf C8
+Turm weiß auf A8 schlägt gegnerische Figur auf C8
+König schwarz zieht von E1 auf E2
+Springer weiß zieht von E6 auf D4
+König schwarz zieht von E2 auf D2
+Springer weiß zieht von D4 auf F3
+König schwarz zieht von D2 auf E2
+Springer weiß auf F3 schlägt gegnerische Figur auf H4
+Bauer schwarz auf G3 schlägt gegnerische Figur auf H4
+Turm weiß zieht von C8 auf E8
+Läufer schwarz auf G6 schlägt gegnerische Figur auf E8
+Springer weiß auf F6 schlägt gegnerische Figur auf H5
+Läufer schwarz auf E8 schlägt gegnerische Figur auf H5
+Bauer weiß zieht von B7 auf B6
+Läufer schwarz zieht von H6 auf G7
+König weiß zieht von E5 auf D5
+Läufer schwarz zieht von H5 auf F3
+König weiß zieht von D5 auf D6
+Läufer schwarz zieht von G7 auf F8
+König weiß zieht von D6 auf E6
+Läufer schwarz zieht von F3 auf G4
+König weiß zieht von E6 auf E5
+Läufer schwarz zieht von F8 auf G7
+König weiß zieht von E5 auf F4
+Läufer schwarz zieht von G4 auf F3
+Bauer weiß zieht von A7 auf A6
+Läufer schwarz zieht von G7 auf H6
+König weiß zieht von F4 auf E5
+Läufer schwarz zieht von H6 auf G7
+König weiß zieht von E5 auf D6
+Läufer schwarz zieht von G7 auf F8
+König weiß zieht von D6 auf E6
+Läufer schwarz zieht von F3 auf G4
+König weiß zieht von E6 auf E5
+Läufer schwarz zieht von F8 auf G7
+König weiß zieht von E5 auf D5
+Läufer schwarz zieht von G4 auf F3
+König weiß zieht von D5 auf D6
+Läufer schwarz zieht von G7 auf F8
+König weiß zieht von D6 auf D7
+Läufer schwarz zieht von F3 auf G4
+König weiß zieht von D7 auf C7
+Läufer schwarz zieht von G4 auf H5
+Bauer weiß zieht von B6 auf B5
+Läufer schwarz auf F8 schlägt gegnerische Figur auf C5
+König weiß zieht von C7 auf C6
+Läufer schwarz zieht von C5 auf E3
+Bauer weiß zieht von A6 auf A5
+Läufer schwarz zieht von H5 auf F3
+König weiß zieht von C6 auf D6
+Läufer schwarz zieht von E3 auf F4
+König weiß zieht von D6 auf E6
+Läufer schwarz zieht von F3 auf G4
+König weiß zieht von E6 auf F6
+Läufer schwarz zieht von F4 auf G5
+König weiß zieht von F6 auf G6
+Läufer schwarz zieht von G4 auf D7
+Bauer weiß zieht von B5 auf B4
+Läufer schwarz zieht von D7 auf E8
+König weiß zieht von G6 auf F5
+Läufer schwarz zieht von E8 auf D7
+König weiß zieht von F5 auf G6
+Läufer schwarz zieht von D7 auf E8
+König weiß zieht von G6 auf F5
+Läufer schwarz zieht von E8 auf D7
+
+
+"Den Plan in die Praxis umzusetzen ist auf jeden Fall schwierig, da die KI konzentrierter ist als ich."
+
+"Ich hab noch nie Schach gespielt, bin aber relativ schnell dahinter gestiegen."
+
+"Die KI spielt zu sicher, es besteht die Gefahr von sich wiederholenden Zügen."

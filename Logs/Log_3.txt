@@ -1,0 +1,18 @@
+Bauer weiß zieht von E7 auf E6
+Bauer schwarz zieht von H2 auf H4
+Dame weiß zieht von D8 auf F6
+Bauer schwarz zieht von A2 auf A3
+Läufer weiß zieht von F8 auf C5
+Bauer schwarz zieht von E2 auf E3
+Dame weiß auf F6 schlägt gegnerische Figur auf F2
+König schwarz auf E1 schlägt gegnerische Figur auf F2
+Läufer weiß auf C5 schlägt gegnerische Figur auf A3
+Turm schwarz auf A1 schlägt gegnerische Figur auf A3
+Bauer weiß zieht von E6 auf E5
+Dame schwarz zieht von D1 auf H5
+Bauer weiß zieht von E5 auf E4
+Dame schwarz zieht von H5 auf E5
+König weiß zieht von E8 auf D8
+Dame schwarz auf E5 schlägt gegnerische Figur auf G7
+Springer weiß zieht von G8 auf E7
+Dame schwarz zieht von G7 auf E5

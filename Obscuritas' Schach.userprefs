@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Obscuritas' Schach.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player.cs">
+    <Files>
+      <File FileName="Assets\Player.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="G:\Unity Projekte\Obscuritas' Schach\Assets\Player.cs" line="560" column="1" />
+      <Breakpoint file="G:\Unity Projekte\Obscuritas' Schach\Assets\Player.cs" line="273" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

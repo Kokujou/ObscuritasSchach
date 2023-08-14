@@ -1,0 +1,12 @@
+Bauer weiß zieht von C7 auf C5
+Bauer schwarz zieht von A2 auf A3
+Bauer weiß zieht von B7 auf B5
+Bauer schwarz zieht von A3 auf A4
+Bauer weiß zieht von A7 auf A6
+Bauer schwarz auf A4 schlägt gegnerische Figur auf B5
+Turm weiß zieht von A8 auf A7
+Bauer schwarz auf B5 schlägt gegnerische Figur auf A6
+Turm weiß zieht von A7 auf C7
+Bauer schwarz zieht von A6 auf A7
+Springer weiß zieht von B8 auf C6
+Bauer schwarz zieht von A7 auf A8

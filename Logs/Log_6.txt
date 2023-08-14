@@ -1,0 +1,10 @@
+Bauer weiß zieht von E7 auf E6
+Springer schwarz zieht von G1 auf F3
+Dame weiß zieht von D8 auf F6
+Turm schwarz zieht von H1 auf G1
+Läufer weiß zieht von F8 auf C5
+Bauer schwarz zieht von A2 auf A3
+Bauer weiß zieht von E6 auf E5
+Bauer schwarz zieht von A3 auf A4
+Bauer weiß zieht von E5 auf E4
+Turm schwarz zieht von A1 auf A3

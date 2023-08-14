@@ -1,0 +1,40 @@
+Bauer weiß zieht von E7 auf E5
+Springer schwarz zieht von G1 auf F3
+Bauer weiß zieht von H7 auf H5
+Springer schwarz auf F3 schlägt gegnerische Figur auf E5
+Bauer weiß zieht von H5 auf H4
+Bauer schwarz zieht von E2 auf E3
+Dame weiß zieht von D8 auf G5
+Bauer schwarz zieht von D2 auf D4
+Dame weiß zieht von G5 auf G3
+Bauer schwarz auf H2 schlägt gegnerische Figur auf G3
+Bauer weiß zieht von D7 auf D5
+Turm schwarz auf H1 schlägt gegnerische Figur auf H4
+Läufer weiß zieht von C8 auf H3
+Turm schwarz auf H4 schlägt gegnerische Figur auf H8
+Läufer weiß zieht von F8 auf A3
+Turm schwarz auf H8 schlägt gegnerische Figur auf H3
+Springer weiß zieht von G8 auf F6
+Springer schwarz auf B1 schlägt gegnerische Figur auf A3
+Springer weiß zieht von F6 auf G4
+Dame schwarz auf D1 schlägt gegnerische Figur auf G4
+Bauer weiß zieht von F7 auf F5
+Dame schwarz auf G4 schlägt gegnerische Figur auf F5
+Bauer weiß zieht von G7 auf G5
+Dame schwarz auf F5 schlägt gegnerische Figur auf G5
+Bauer weiß zieht von C7 auf C6
+Dame schwarz zieht von G5 auf G6
+König weiß zieht von E8 auf D8
+Turm schwarz zieht von H3 auf H8
+König weiß zieht von D8 auf C7
+Turm schwarz zieht von H8 auf H7
+König weiß zieht von C7 auf C8
+Dame schwarz zieht von G6 auf E6
+König weiß zieht von C8 auf D8
+Turm schwarz auf H7 schlägt gegnerische Figur auf B7
+Bauer weiß zieht von A7 auf A5
+Springer schwarz auf E5 schlägt gegnerische Figur auf C6
+Springer weiß auf B8 schlägt gegnerische Figur auf C6
+Dame schwarz auf E6 schlägt gegnerische Figur auf C6
+Turm weiß zieht von A8 auf A7
+Turm schwarz auf B7 schlägt gegnerische Figur auf A7

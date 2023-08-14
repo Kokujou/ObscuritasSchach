@@ -1,0 +1,12 @@
+Bauer weiß zieht von E7 auf E6
+Bauer schwarz zieht von A2 auf A4
+Bauer weiß zieht von E6 auf E5
+Bauer schwarz zieht von A4 auf A5
+Bauer weiß zieht von E5 auf E4
+Bauer schwarz zieht von B2 auf B3
+Bauer weiß zieht von D7 auf D5
+Bauer schwarz zieht von C2 auf C3
+Bauer weiß zieht von H7 auf H6
+Bauer schwarz zieht von E2 auf E3
+Bauer weiß zieht von G7 auf G5
+Dame schwarz zieht von D1 auf H5
